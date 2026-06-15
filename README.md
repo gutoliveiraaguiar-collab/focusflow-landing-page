@@ -5,7 +5,7 @@ Landing page moderna e totalmente responsiva criada para o FocusFlow, um aplicat
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-link: https://gutoliveiraaguiar-collab.github.io/focusflow-landing-page/
+
 Uma landing page moderna e totalmente responsiva para um aplicativo fictício de produtividade. O conceito: a cada 25 minutos de foco, você planta uma árvore real.
 
 ## 🚀 Tecnologias Utilizadas
@@ -32,6 +32,8 @@ Uma landing page moderna e totalmente responsiva para um aplicativo fictício de
 | Tablet | 768px - 992px | 2 | Normal/Hamburguer |
 | Desktop | > 992px | 3 | Normal |
 
+## Link
+| link: https://gutoliveiraaguiar-collab.github.io/focusflow-landing-page/
 ## 🛠️ Como Executar Localmente
 
 1. Clone o repositório:
